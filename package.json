@@ -1,0 +1,19 @@
+{
+  "name": "search2ai",
+  "version": "0.1.0",
+  "description": "联网大模型",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fatwang2",
+  "license": "MIT",
+  "dependencies": {
+    "ai": "^2.2.31",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^2.7.0",
+    "pump": "^3.0.0"
+  }
+}

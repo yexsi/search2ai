@@ -1,0 +1,6 @@
+node_modules
+.vercel
+.env
+wrangler.toml
+.wrangler
+.vscode
